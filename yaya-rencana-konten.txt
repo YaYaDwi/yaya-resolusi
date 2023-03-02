@@ -1,6 +1,8 @@
-RENCANA YAYA
+RENCANA KOTEN YAYA
 - Design Kartu Nama
-*kartu nama simpel yang memiliki ciri khas warna yang cerah
+  ^ kartu nama simpel yang memiliki ciri khas warna yang cerah
 - Design Simpel Background
 - Membuat Konten youtube
-^ Konten Anime/Manga
+  ^ Konten Anime/Manga
+  ^ Story telling
+
