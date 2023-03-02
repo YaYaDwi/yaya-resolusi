@@ -1,6 +1,7 @@
-RENCANA KOTEN DESIGN YAYA
-- Kartu Nama
+RENCANA KOTEN YAYA
+- Design Kartu Nama
 *kartu nama simpel yang memiliki ciri khas warna yang cerah
-- Simpel Background
-- Flayer
+- Design Simpel Background
+- Design Flayer
 - Membuat Konten youtube
+^ Story telling
